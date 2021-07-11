@@ -1,0 +1,26 @@
+[
+    {
+        "sku": "_120P90",
+        "name": "Google Home",
+        "price": 49.99,
+        "quantity": 10
+    },
+    {
+        "sku": "_43N23P",
+        "name": "MacBook Pro",
+        "price": 5399.99,
+        "quantity": 5
+    },
+    {
+        "sku": "_A304SD",
+        "name": "Alexa Speaker",
+        "price": 109.50,
+        "quantity": 10
+    },
+    {
+        "sku": "_234234",
+        "name": "Raspberry Pi B",
+        "price": 30,
+        "quantity": 2
+    }
+]
