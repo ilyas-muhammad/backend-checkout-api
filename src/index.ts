@@ -23,7 +23,7 @@ server.applyMiddleware({
   path: '/',
 });
 
-const port = getValidatedNumericConfig('APP_PORT');
+const port = getValidatedNumericConfig('APP_PORT') || 4000;
 
 app.listen(
   {
